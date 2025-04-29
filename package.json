@@ -1,0 +1,15 @@
+{
+  "name": "block33",
+  "version": "1.0.0",
+  "description": "Assignment for Block33",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.15.1"
+  }
+}
